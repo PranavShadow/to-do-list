@@ -1,2 +1,2 @@
-# to-do-list
-To-Do List
+To-Do List made HTML+CSS+JS
+by: PranavShadow 🦇
